@@ -9,9 +9,12 @@ Tagleri inceleyelim
 
 
 ---
-
+# EN SIK KULLANILAN MARKDOWN KOMUT
 
 Elbette! İşte Markdown komutlarını tablo formatında bulabilirsiniz:
+
+*italic*
+~~çizili~~
 
 | Markdown Komutu             | Açıklama                                         |
 |-----------------------------|--------------------------------------------------|
