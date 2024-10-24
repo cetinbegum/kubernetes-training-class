@@ -18,14 +18,15 @@ kubeconfig: Configured
 ## kubectl get pods
 podları listeler
 
-````
+```
 NAME                                                READY   STATUS    RESTARTS      AGE
 my-nginx-nginx-ingress-controller-5c64cd794-k4kzq   1/1     Running   8 (89m ago)   11d
+
 ```
 
 ## kubectl get deployments -o yaml -n kube-system
 
-````
+```
 apiVersion: v1
 items:
 - apiVersion: apps/v1
