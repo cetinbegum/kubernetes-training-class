@@ -400,3 +400,11 @@ metadata:
     }
 }
 ```
+
+
+
+
+
+
+kubectl expose pod nginx-pod --type=ClusterIP --port=80 --target-port=80 --namespace=sbm-training
+git pull; git add . && git commit -m "Refine task priorities in kanban board" && git push;clear.exe
